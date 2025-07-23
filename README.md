@@ -1,4 +1,4 @@
-# Hi there I'm Devika! 👋
+# Hi there I'm Devika Sasi! 👋
 
 Welcome to my GitHub profile! I'm currently diving deep into the MERN stack, crafting real-world projects and sharpening my skills every day.Here's a little about me:
 
