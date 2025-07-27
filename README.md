@@ -13,7 +13,8 @@ ___
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages : Python, JavaScript
+
+- **Programming Languages** : Python, JavaScript
 - **Frontend** : HTML, CSS, React.js  
 - **Backend** : Node.js, Express.js  
 - **Database** : SQL, MongoDB  
